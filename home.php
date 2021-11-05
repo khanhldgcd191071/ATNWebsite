@@ -1,5 +1,5 @@
 <?php
-// We need to use sessions, so you should always start sessions using the below code.
+// This part direct the connection to Heroku
 $host_heroku = "ec2-34-203-255-149.compute-1.amazonaws.com";
 $db_heroku = "d642kjd2c1kho9";
 $user_heroku = "nkkmoipxidjucr";
